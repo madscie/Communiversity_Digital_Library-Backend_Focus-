@@ -1,0 +1,7 @@
+DB_NAME=communiversity_library
+DB_USER=library_admin
+DB_PASSWORD=library_password_2024
+DB_HOST=localhost
+DB_PORT=3306
+PORT=5000
+    
